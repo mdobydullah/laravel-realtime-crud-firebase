@@ -2,7 +2,7 @@
 In this tutorial, I have talked about Laravel real-time CRUD using Google Firebase.
 
 ## Tutorial Link
-[Laravel RealTime CRUD Using Google Firebase](https://www.mynotepaper.com/laravel-realtime-crud-using-google-firebase.html)
+[Laravel RealTime CRUD Using Google Firebase](https://shouts.dev/laravel-realtime-crud-using-google-firebase)
 
 ## Output
 #### Form:
